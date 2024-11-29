@@ -1,5 +1,5 @@
-var x=10;
+var x = 10;
 
-if (a==5) {
-    console.log(b);
+if (a == 5) {
+  console.log(b);
 }
